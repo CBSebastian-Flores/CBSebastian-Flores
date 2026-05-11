@@ -29,14 +29,14 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 
 ### 🚀 Proyectos Destacados
 
-*   **MercadoRed:** Sistema de gestión para comercios centrado en el control de stock y pagos eficientes.
-*   **RapidosyFuriosos:** Implementación de REST APIs integradas con bases de datos en la nube (AWS RDS).
-*   **PawAdopt:** Aplicación móvil orientada al impacto social con arquitectura cliente-servidor.
+*   **Fumma:** Sistema de gestión de ventas centrado en el control de stock, pedidos, comprobantes, clientes y seguimiento.
+*   **CiberElektric:** Implementación de REST APIs integradas con bases de datos en la nube (AWS RDS).
+*   **PawAdopt:** Aplicación móvil orientada al impacto social con arquitectura cliente-servidor con kotlin.
 
 ---
 
 ### 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBSebastian_FS&show_icons=true&theme=dracula&bg_color=1f1f1f&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBSebastian-Flores&show_icons=true&theme=dracula&bg_color=1f1f1f&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff)
 
 ---
 
