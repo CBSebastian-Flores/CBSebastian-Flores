@@ -8,17 +8,20 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Backend & Databases**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2730D?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF9900?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-E36209?style=for-the-badge&logo=dot-net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-F7A81B?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF7F00?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2730D?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FF9900?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FF7F00?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-F7A81B?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+#### **Cloud, DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
 #### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white)
@@ -36,7 +39,9 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 ---
 
 ### 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBSebastian-Flores&show_icons=true&theme=dracula&bg_color=1f1f1f&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CBSebastian-Flores&show_icons=true&theme=dracula&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=181818" alt="GitHub Stats" />
+</p>
 
 ---
 
