@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner Christian Flores" width="100%">
+</p>
+
 # Buenas!, Soy Christian Flores 👋
 
 ### Backend Software Engineer | Tech Enthusiast
@@ -24,26 +28,44 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 </p>
 
 #### **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-E26D21?style=for-the-badge&logo=kotlin&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-E26D21?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+---
+
+### 📊 Análisis de Código
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBSebastian-Flores&layout=compact&theme=dracula&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+</p>
+
+### 🏆 Especialización Técnica
+- **Lenguajes Dominantes:** Java (Spring Boot), Python, SQL.
+- **Entornos:** Node.js.
+- **Metodologías:** SCRUM, Gestión de equipos con Jira.
+
+---
+
+### 🔍 Actualmente estoy...
+- 🔭 Liderando el desarrollo de **GESCOB**, un sistema de gestión de cobros.
+- 📃 Aplicando **Metodología SCRUM** para la gestión y documentación de tareas en Jira.
+- 🌱 Profundizando en **Arquitectura de Microservicios**.
+- 💬 Pregúntame sobre **Java, Spring Boot o AWS**.
+- ⚡ Fun fact: Disfruto aprender cosas nuevas constantemente y el buen cine.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-*   **Fumma:** Sistema de gestión de ventas centrado en el control de stock, pedidos, comprobantes, clientes y seguimiento.
-*   **CiberElektric:** Implementación de REST APIs integradas con bases de datos en la nube (AWS RDS).
-*   **PawAdopt:** Aplicación móvil orientada al impacto social con arquitectura cliente-servidor con kotlin.
+* **Fumma:** Gestión integral de ventas, stock y seguimiento de clientes.
+* **CiberElektric:** APIs REST robustas con persistencia en AWS RDS.
+* **PawAdopt:** App móvil con Kotlin enfocada en impacto social.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📈 Actividad
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CBSebastian-Flores&theme=dark&background=1a1a1a&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CBSebastian-Flores&theme=dark&background=1a1a1a&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff" alt="GitHub Streak Stats" />
 </p>
-
----
-
-### 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-flores-salas-372540223/)
