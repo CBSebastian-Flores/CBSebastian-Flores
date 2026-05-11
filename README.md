@@ -36,11 +36,6 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 
 ---
 
-### 📊 Análisis de Código
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBSebastian-Flores&layout=compact&theme=dracula&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
-</p>
-
 ### 🏆 Especialización Técnica
 - **Lenguajes Dominantes:** Java (Spring Boot), Python, SQL.
 - **Entornos:** Node.js.
