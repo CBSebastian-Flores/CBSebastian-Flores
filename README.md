@@ -1,4 +1,4 @@
-# Hi there, I'm Christian Flores 👋
+# Buenas!, Soy Christian Flores 👋
 
 ### Backend Software Engineer | Tech Enthusiast
 Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque principal es el desarrollo de arquitecturas backend modernas, la gestión de bases de datos y la integración de servicios en la nube.
