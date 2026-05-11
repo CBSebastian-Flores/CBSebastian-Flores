@@ -40,7 +40,7 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 
 ### 📊 Estadísticas de GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CBSebastian-Flores&show_icons=true&theme=dracula&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=181818" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CBSebastian-Flores&theme=dark&background=1a1a1a&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff" alt="GitHub Streak Stats" />
 </p>
 
 ---
