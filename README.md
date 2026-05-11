@@ -36,9 +36,9 @@ Apasionado por construir sistemas escalables, robustos y eficientes. Mi enfoque 
 ---
 
 ### 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBSebastian-Flores&show_icons=true&theme=dracula&bg_color=1f1f1f&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBSebastian_Flores&show_icons=true&theme=dracula&bg_color=1f1f1f&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff)
 
 ---
 
 ### 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-flores-salas-372540223/)
