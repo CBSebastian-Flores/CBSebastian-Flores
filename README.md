@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner Christian Flores" width="100%">
+  <img src="./Banner-Github.png" alt="Banner Christian Flores" width="100%">
 </p>
 
 # Buenas!, Soy Christian Flores 👋
